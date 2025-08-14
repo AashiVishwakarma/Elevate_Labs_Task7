@@ -66,7 +66,7 @@ DB Connected successfully!
 4. Delete Employee
 5. Exit
 
-Enter choice: 1
+Enter choice: 
 
 ---
 
